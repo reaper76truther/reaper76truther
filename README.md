@@ -17,7 +17,7 @@
         <p align="left">$\color{#FF0000}\textsf{RORY}$ $\color{#0069D1}\textsf{HE/HIM}$ NINETEEN</p>
         <hr>
     the soldier 76 and reaper 76 fan
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a>
+        <a href="https://git.io/typing-svg" align="right"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a>
         <p align="left"> > alt of @spaceprobes, fine w c+h, w2i, minors iwec
           <!-- DROPDOWN LINK -->
   <details>
