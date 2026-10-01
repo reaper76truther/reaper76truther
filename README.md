@@ -11,7 +11,7 @@
         <!-- VIEWS BADGE 
         In the link, replace YOU_USERNAME with your username to get the correct amount of views.
         -->
-<img src="https://views.igorkowalczyk.dev/api/badge/YOUR_USERNAME?style=flat" align="right"><br>
+<img src="https://views.igorkowalczyk.dev/api/badge/reaper76truther?style=flat" align="right"><br>
         <!-- VIEWS BADGE -->
         <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/OW1Icon_Soldier76.png/revision/latest?cb=20250804194520" width="140" align="left"><br>
         <p align="left">$\color{#FF0000}\textsf{RORY}$ $\color{#0069D1}\textsf{HE/HIM}$ NINETEEN</p>
