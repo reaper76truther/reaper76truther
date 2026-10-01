@@ -14,7 +14,7 @@
 <img src="https://views.igorkowalczyk.dev/api/badge/YOUR_USERNAME?style=flat" align="right"><br>
         <!-- VIEWS BADGE -->
         <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/OW1Icon_Soldier76.png/revision/latest?cb=20250804194520" width="140"><br>
-        hi
+        <p align="left"><h3>$\color{#FF0000}\textsf{RORY}$</h3></p>
         <hr>
         <p align="left">$\color{#38D3E8}\textsf{...}$</p>
         <p align="left"> > wip bro
