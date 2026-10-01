@@ -13,11 +13,12 @@
         -->
 <img src="https://views.igorkowalczyk.dev/api/badge/YOUR_USERNAME?style=flat" align="right"><br>
         <!-- VIEWS BADGE -->
-        <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/OW1Icon_Soldier76.png/revision/latest?cb=20250804194520" width="140"><br>
+        <img src="https://static.wikia.nocookie.net/overwatch_gamepedia/images/5/55/OW1Icon_Soldier76.png/revision/latest?cb=20250804194520" width="140" align="left"><br>
         <p align="left">$\color{#FF0000}\textsf{RORY}$ $\color{#0069D1}\textsf{HE/HIM}$ NINETEEN</p>
         <hr>
-        <p align="left">$\color{#38D3E8}\textsf{...}$</p>
-        <p align="left"> > wip bro
+    the soldier 76 and reaper 76 fan
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a>
+        <p align="left"> > alt of @spaceprobes, fine w c+h, w2i, minors iwec
           <!-- DROPDOWN LINK -->
   <details>
 <summary>INFO</summary>
