@@ -24,7 +24,7 @@
 
 > im mostly hanging out on the safe server but you might find me on 18+ at times. <br>
 ────────<br>
-> im not the type to interact first even if we're friends unless we're <i>really</i> close. The only time id ever int first is when crowning/complimenting someone. <-- this goes off-site too!! im very anxious about messagimh first gulps..<br>
+> im not the type to interact first even if we're friends unless we're <i>really</i> close. The only time id ever int first is when crowning/complimenting someone. <-- this goes off-site too!! im very anxious about messaging first gulps..<br>
 > Fine with ships interacting if im cosplaying a characrter (esp reapers if im soldier looks around...) just dont roleplay/make it weird,,
 
 </details>
