@@ -32,6 +32,6 @@
         <hr>
 </tr>
   </table>
-          <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a>
+          <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a> <img src="https://64.media.tumblr.com/2b636e4acd534c692636dbefb68d29d2/1b769f25d08476ed-23/s100x200/a5b475390046ab1003a49b7f544c8df0f41f2b00.gifv" align="right"> <img src="https://64.media.tumblr.com/a6d388512248d60ce94ae1168359cd21/1b769f25d08476ed-5d/s100x200/bfb97651ca16213335e3c3dd71d7f020f158d0b2.gifv" align="right">
   <!-- RIGHT BOX -->
 </div>
