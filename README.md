@@ -23,6 +23,7 @@
 <summary>$\color{#FF0000}\textsf{more}$</summary>
 
 im mostly hanging out on the safe server but you might find me on 18+ at times. <br>
+────────<br>
 im not the type to interact first even if we're friends unless we're <i>really</i> close. The only time id ever int first is when crowning/complimenting someone.
 
 </details>
