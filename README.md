@@ -19,15 +19,14 @@
     the soldier 76 and reaper 76 fan
         <p align="left"> > alt of @spaceprobes, fine w c+h, w2i, minors iwec
           <!-- DROPDOWN LINK -->
-  <details>
+  <details align="left">
 <summary>$\color{#FF0000}\textsf{more}$</summary>
 
 > im mostly hanging out on the safe server but you might find me on 18+ at times. <br>
 ────────<br>
 > ⛶ im not the type to interact first even if we're friends unless we're <i>really</i> close. The only time id ever int first is when crowning/complimenting someone. <-- this goes off-site too!! im very anxious about messaging first gulps..<br><br>
 > ⛶ Fine with ships interacting if im cosplaying a characrter (esp reapers if im soldier looks around...) just dont roleplay/make it weird,,<br><br>
-> ⛶ If I see "anti-harassment" , "anti-censorship" or both somewhere in your socials you're getting automatically hidden, I know what you are. Stop trying to make yourself not seem like a proshipper.<br><br>
-<img src="https://i.pinimg.com/736x/24/7e/a7/247ea7188f1c1afb23f4dc95653a1051.jpg" width="300" align="center">
+> ⛶ If I see "anti-harassment" , "anti-censorship" or both somewhere in your socials you're getting automatically hidden, I know what you are. Stop trying to make yourself not seem like a proshipper.
 
 </details>
         </p>
@@ -36,4 +35,10 @@
   </table>
           <a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&duration=6000&pause=1500&color=F73333&center=true&vCenter=true&width=435&lines=We+can't+let+this+die+a+death+again;I+know%2C+you+know." alt="Typing SVG" /></a> <img src="https://64.media.tumblr.com/2b636e4acd534c692636dbefb68d29d2/1b769f25d08476ed-23/s100x200/a5b475390046ab1003a49b7f544c8df0f41f2b00.gifv" align="right"> <img src="https://64.media.tumblr.com/a6d388512248d60ce94ae1168359cd21/1b769f25d08476ed-5d/s100x200/bfb97651ca16213335e3c3dd71d7f020f158d0b2.gifv" align="right">
   <!-- RIGHT BOX -->
+  <div align="left">
+  <details align="right">
+  <summary>...</summary>
+    <img src="https://i.pinimg.com/736x/24/7e/a7/247ea7188f1c1afb23f4dc95653a1051.jpg">
+</details>
+  </div>
 </div>
