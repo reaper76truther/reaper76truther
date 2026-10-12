@@ -26,7 +26,8 @@
 ────────<br>
 > ⛶ im not the type to interact first even if we're friends unless we're <i>really</i> close. The only time id ever int first is when crowning/complimenting someone. <-- this goes off-site too!! im very anxious about messaging first gulps..<br><br>
 > ⛶ Fine with ships interacting if im cosplaying a characrter (esp reapers if im soldier looks around...) just dont roleplay/make it weird,,<br><br>
-> ⛶ If I see "anti-harassment" , "anti-censorship" or both somewhere in your socials you're getting automatically hidden, I know what you are. Stop trying to make yourself not seem like a proshipper.
+> ⛶ If I see "anti-harassment" , "anti-censorship" or both somewhere in your socials you're getting automatically hidden, I know what you are. Stop trying to make yourself not seem like a proshipper.<br><br>
+<img src="https://i.pinimg.com/736x/24/7e/a7/247ea7188f1c1afb23f4dc95653a1051.jpg" width="300" align="center">
 
 </details>
         </p>
